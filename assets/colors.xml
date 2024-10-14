@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    /* Colors */
+    <color name="black">#000000</color>
+    <color name="white">#FFFFFF</color>
+    <color name="blackPearl">#05101C</color>
+    <color name="mirage">#1b2530</color>
+    <color name="mineShaft">#363636</color>
+    <color name="deluge">#7662B3</color>
+    <color name="whiteLight">#fefefe</color>
+</resources>
